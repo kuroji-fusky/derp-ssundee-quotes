@@ -1,2 +1,5 @@
 # derp-ssundee-quotes
-MOM LOVE ME
+
+Quotes from Derp SSundee
+
+Uses Fastify + TypeScript
